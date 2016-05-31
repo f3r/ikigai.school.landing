@@ -9,10 +9,12 @@
   "author": "Fer Martin",
   "license": "ISC",
   "devDependencies": {
+    "bower": "^1.7.9",
     "browser-sync": "^2.12.5",
     "gulp": "^3.9.1",
     "gulp-batch": "^1.0.5",
     "gulp-ruby-sass": "^2.0.6",
-    "gulp-watch": "^4.3.5"
+    "gulp-watch": "^4.3.5",
+    "wiredep": "^4.0.0"
   }
 }
